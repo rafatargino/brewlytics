@@ -1,0 +1,58 @@
+{
+    "frutas": {
+        "maçãs": [
+            {
+                "tipo": "maçã vermelha",
+                "sabores": ["doce", "suave"]
+            },
+            {
+                "tipo": "maçã verde",
+                "sabores": ["azedo", "crocante"]
+            }
+        ],
+        "bananas": [
+            {
+                "tipo": "banana prata",
+                "sabores": ["doce", "cremoso"]
+            },
+            {
+                "tipo": "banana-da-terra",
+                "sabores": ["mais forte", "doce"]
+            }
+        ],
+        "laranjas": [
+            {
+                "tipo": "laranja bahia",
+                "sabores": ["doce", "suave"]
+            },
+            {
+                "tipo": "laranja lima",
+                "sabores": ["ácido", "frutado"]
+            }
+        ]
+    },
+    "vegetais": {
+        "cenouras": [
+            {
+                "tipo": "cenoura laranja",
+                "sabores": ["doce", "terroso"]
+            },
+            {
+                "tipo": "cenoura roxa",
+                "sabores": ["mais terroso"]
+            }
+        ],
+        "brócolis": [
+            {
+                "tipo": "brócolis comum",
+                "sabores": ["suave", "verde"]
+            }
+        ],
+        "espinafres": [
+            {
+                "tipo": "espinafre fresco",
+                "sabores": ["suave", "terroso"]
+            }
+        ]
+    }
+}
